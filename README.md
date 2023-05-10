@@ -39,4 +39,4 @@ To use the web page, simply open the `index.html` file in a web browser. The web
 
 ## Credits
 
-This web page was created by [Your Name], based on a project from [Some Course or Tutorial]. The book data is taken from [Some Source], which provides a list of public domain books.
+This web page was created by Onalenna Rammapatsi, based on a project from LMS Content. The book data is taken from data.js, which provides a list of public domain books.
