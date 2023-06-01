@@ -1,3 +1,5 @@
+
+
 //imported the data from data.js to scripts.js
 import { authors } from "./data.js" //I declared 3 variables (authors, genres, books) and initialized by importing them from the data.js file.
 import { genres } from "./data.js"
